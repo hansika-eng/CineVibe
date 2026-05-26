@@ -1,5 +1,5 @@
 import React from "react";
-import CineVibeApp from "./components/CineVibeApp";
+import CineVibeApp from "./components/CineVibeApp.jsx";
 import "./styles/cinevibe.css";
 
 function App() {
